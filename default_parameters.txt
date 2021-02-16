@@ -1,0 +1,9 @@
+Input data path	=	/home/claudio/Projects/git/MRR_DDU/Data/DDU/RawSpectra/201702/
+output temporal resolution in seconds	=	60
+Short name of the station	=	DDU
+Radome attenuation correction (k to x band) (True or False)	=	True
+Radome attenuation (k to x band), a slope (dBZ) 	=	0.99
+Radome attenuation (k to x band), b intercept (dBZ) 	=	6.14
+Snowfall rate conversion (Z-S)  (True or False) 	=	True
+Z-S relationship, A parameter (constant) 	=	76.0
+Z-S relationship, B parameter (exponent) 	=	0.91
